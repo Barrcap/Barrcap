@@ -1,6 +1,6 @@
 - Hi, I’m Barr
 - Interested in understanding everything I get to touch or hear of
-- I’m a 2nd year Computer Science student in the Open university of Israel and working in Caja robotics as QA and service engineer
+- I’m a 2nd year Computer Science student in the Open university of Israel and working at Caja robotics as QA and service engineer
 - I’m looking to find interesting opportunities to collaborate with, still not sure at what field
 
 <!---
