@@ -1,6 +1,6 @@
 - Hi, I’m Barr
 - Interested in understanding everything I get to touch or hear of
-- I’m a 2nd year Computer Science student in the Open university of Israel and working at Intel as Software Development Student
+- I’m a 3rd year Computer Science student in the Open university of Israel and working at Intel as Software Development Student
 - Always looking to find interesting opportunities for collaboration
 
 <!---
